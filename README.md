@@ -3,7 +3,7 @@
 _Node.js library for testing URL by PageSpeed Insight with Gulp.js compatibilities_
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/andreymatin/html-speed/LICENSE)
-[![npm](https://img.shields.io/npm/v/html-test.svg)](https://www.npmjs.com/package/html-speed)
+[![npm](https://img.shields.io/npm/v/html-speed.svg)](https://www.npmjs.com/package/html-speed)
 
 <img src=https://raw.githubusercontent.com/andreymatin/html-speed/main/screenshot.png alt=screenshot width=640>
 
@@ -19,13 +19,13 @@ https://developers.google.com/speed/docs/insights/v5/get-started
 ### npm
 
 ```shell
-npm i html-test
+npm i html-speed
 ```
 
 ### yarn
 
 ```shell
-yarn add html-test
+yarn add html-speed
 ```
 
 ## How to use
