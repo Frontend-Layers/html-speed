@@ -2,10 +2,10 @@
 
 _Node.js library for testing URL by PageSpeed Insight with Gulp.js compatibilities_
 
-[![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/andreymatin/mobile-friendly-test/LICENSE)
-[![npm](https://img.shields.io/npm/v/html-test.svg)](https://www.npmjs.com/package/html-test)
+[![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/andreymatin/html-speed/LICENSE)
+[![npm](https://img.shields.io/npm/v/html-test.svg)](https://www.npmjs.com/package/html-speed)
 
-<img src=https://raw.githubusercontent.com/andreymatin/html-speed/main/screen.png alt=screenshot width=640>
+<img src=https://raw.githubusercontent.com/andreymatin/html-speed/main/screenshot.png alt=screenshot width=640>
 
 ## How to install
 
